@@ -1,0 +1,4 @@
+Student: Ramos
+Student ID: TUPM-26-1929
+Seed digit: 9
+ID Sum: 29

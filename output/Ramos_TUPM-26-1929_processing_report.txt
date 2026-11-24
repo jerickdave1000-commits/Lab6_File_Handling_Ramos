@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Ramos
+Student ID: TUPM-26-1929
+Seed Digit: 9
+ID Sum: 29
+Verification value: 154
+Dataset Sample Size: 79
+Valid Records: 79
+Average Global Active Power: 3.951
+JSON File: Ramos_TUPM-26-1929_record.json
+Backup File: Ramos_TUPM-26-1929_record.csv
